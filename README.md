@@ -44,5 +44,7 @@ from the same directory as this README resides in, or
 
     sudo rm -rf /usr/share/icons/Arc
 
+### Preview
+![Preview](https://i.imgur.com/yCO1aeP.png)
 
 License: GPLv3
