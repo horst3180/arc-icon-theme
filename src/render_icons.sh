@@ -66,5 +66,5 @@ cp index.theme $THEMEDIR/index.theme
 rm -rf $THEMEDIR/actions/{32,32@2x,48,48@2x,64,64@2x,96,96@2x,128,128@2x} # derp
 
 # TODO
-cp -r animations $THEMEDIR/animations
-cp -r panel $THEMEDIR/panel
+cp -r animations $THEMEDIR/.
+cp -r panel $THEMEDIR/.
