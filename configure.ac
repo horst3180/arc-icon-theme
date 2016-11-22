@@ -1,6 +1,6 @@
 AC_INIT(
     [arc-icon-theme],
-    [20160605],
+    [20161122],
     [https://github.com/horst3180/arc-icon-theme/issues],
     [arc-icon-theme],
     [https://github.com/horst3180/arc-icon-theme]
